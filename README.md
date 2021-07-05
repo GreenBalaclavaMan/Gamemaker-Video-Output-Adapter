@@ -1,4 +1,9 @@
 # Gamemaker-Video-Output-Adapter
-A drag and drop solution for adapting a gamemaker project to a variety of possible output resolutions and aspect ratios.
+Made by @GreenBalaclavaMan
 
-This tool consists of a single object, that will automatically set the output resolution of your project based on the target screen resolution and aspect ratio.
+A drag and drop solution for adapting a gamemaker project to a variety 
+of possible output resolutions and aspect ratios.
+
+Designed to be as simple as possible, consisting of only one object, 
+this tool will automatically adapt the viewport resolution to the target 
+resolution of a user's display.
